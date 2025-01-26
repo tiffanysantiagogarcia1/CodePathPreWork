@@ -24,10 +24,12 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## App Brainstorming (Step 4)
 Tiktok
 - ability to have different for you pages ex: STEM Page , Following Page, FYP
-- ability to have a video as your profile picture 
+- ability to have a video as your profile picture
+
 Instagram 
 - change of background for personal dm's'
-- Music feature on posts 
+- Music feature on posts
+  
 Pinterest 
 - Ability to have different pages to scroll based on folders created 
 - clean look of pages 
